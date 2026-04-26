@@ -21,16 +21,18 @@ Cyclistic aims to maximize the number of annual members, as they are more profit
 
 ![Rides by Hour](rides_by_hour.png)
 
-This chart clearly shows the difference between members and casual riders.
+These charts clearly shows the difference between members and casual riders,
+Where casual ridedrs are more flexible and midday riders, also more active on weekends.
+In contrast to member riders, who have a morining and evening peaks, while consistently commuting during weekdays and weekends.
 
 ![Rides by Day](rides_by_day.png)
 
 
 ## Recommendations
 
-- Introduce weekday incentives to build commuting habits among casual riders  
-- Target high-frequency casual riders with personalized membership offers  
-- Develop flexible or weekend-based membership plans  
+- Introduce weekday incentives to build commuting habits among casual riders.  
+- Target high-frequency casual riders with personalized membership offers.  
+- Develop flexible or weekend-based membership plans.  
 
 ## Full Report
 For a detailed breakdown of the analysis:
