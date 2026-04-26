@@ -35,9 +35,9 @@ while casual riders use them more flexibly and less consistently.
 
 ## 5. Visualizations  
 
-![Rides by Hour](../visuals/rides_by_hour.png)  
-![Rides by Day](../visuals/rides_by_day.png)  
-![Average Ride Length](../visuals/avg_ride_length.png)
+![Rides by Hour](/visuals/rides_by_hour.png)  
+![Rides by Day](/visuals/rides_by_day.png)  
+![Average Ride Length](/visuals/avg_ride_length.png)
 
 ---
 
