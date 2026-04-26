@@ -19,7 +19,7 @@ Cyclistic aims to maximize the number of annual members, as they are more profit
 
 ## Visualizations
 
-![Rides by Hour](visuals/rides_by_hour.png)
+![Rides by Hour](rides_by_hour.png)
 
 This chart clearly shows the difference between members and casual riders.
 
