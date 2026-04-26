@@ -34,7 +34,4 @@ In contrast to member riders, who have a morining and evening peaks, while consi
 - Target high-frequency casual riders with personalized membership offers.  
 - Develop flexible or weekend-based membership plans.  
 
-## Full Report
-For a detailed breakdown of the analysis:
 
-{View full case study}-(report/cyclistic_case_study.md)
