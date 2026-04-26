@@ -23,7 +23,7 @@ Cyclistic aims to maximize the number of annual members, as they are more profit
 
 ![Rides by Day](rides_by_day.png)
 
-These charts clearly shows the difference between members and casual riders,
+These charts clearly shows the differences between members and casual riders,
 Where casual ridedrs are more flexible and midday riders, also more active on weekends.
 In contrast to member riders, who have a morining and evening peaks, while consistently commuting during weekdays and weekends.
 
